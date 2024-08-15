@@ -14,8 +14,9 @@ Heart disease seems to be a serious and life-threatening condition that signific
 
 
 # Dataset by Heart Disease:
-  - Dataset from Davide Chicco, Giuseppe Jurman: â€œMachine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
+  - Dataset from Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
   - https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/data
+
 
 ![image](https://github.com/user-attachments/assets/73f61d80-2773-4908-82be-423a56fb63fa)
 

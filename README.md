@@ -1,5 +1,5 @@
 
-# Project-Cardiac Failure
+# Project-Heart Failure
 
 # Team Members:
   - Laura Sunley

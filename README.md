@@ -26,12 +26,12 @@ Heart Failure seems to be a serious and life-threatening condition that signific
   - creatinine_phosphokinase: The level of the enzyme creatinine phosphokinase in the blood, an indicator of muscle damage.
   - diabetes: Indicates whether the patient has diabetes, a chronic condition that affects blood sugar regulation.
   - ejection_fraction: The percentage of blood that is pumped out of the heart's left ventricle with each contraction, a measure of heart function.
-  - high_blood_pressure: Indicates whether the patient has high blood pressure (hypertension), a condition that can lead to heart disease and other complications.
+  - high_blood_pressure: Indicates whether the patient has high blood pressure (hypertension), a condition that can lead to heart failure and other complications.
   - platelets: The count of platelets in the blood, which are essential for blood clotting.
   - serum_creatinine: The level of creatinine in the blood, an indicator of kidney function.
   - serum_sodium: The level of sodium in the blood, important for maintaining fluid balance and nerve function.
   - sex: The gender of the patient.
-  - smoking: Indicates whether the patient is a smoker, a risk factor for many health conditions including heart disease.
+  - smoking: Indicates whether the patient is a smoker, a risk factor for many health conditions including heart failure.
   - time: The follow-up period in days for the patient, representing the time since the beginning of the study or treatment.
   - DEATH_EVENT: Indicates whether the patient has died during the follow-up period.
 

@@ -10,7 +10,7 @@
 
 # Project Overview
 
-Heart Failure seems to be a serious and life-threatening condition that significantly impacts a large portion of the global population. Our analysis seeks to shed light on heart failure by examining factors such as age, gender, and physical data. The goal is to develop a clearer understanding of which demographics are more susceptible to heart disease and to identify effective prevention strategies. 
+Heart Failure seems to be a serious and life-threatening condition that significantly impacts a large portion of the global population. Our analysis seeks to shed light on heart failure by examining factors such as age, gender, and physical data. The goal is to develop a clearer understanding of which demographics are more susceptible to heart failure and to identify effective prevention strategies. 
 
 
 # Dataset by Heart failure:
@@ -37,7 +37,7 @@ Heart Failure seems to be a serious and life-threatening condition that signific
 
 # Analysis will be on:
 
-** Does age relate to cardiac failure?
+** Does age relate to heart failure?
 
 ** Does biological sex play a factor in heart failure?
 

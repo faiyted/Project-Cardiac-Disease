@@ -37,14 +37,14 @@ Heart Failure seems to be a serious and life-threatening condition that signific
 
 # Analysis will be on:
 
-** How does age related to cardiac failure
+** Does age relate to cardiac failure?
 
-** How does sex related to cardiac failure
+** Does biological sex play a factor in heart failure?
 
-** How the physical data to affect cardiac failure
+** Are there clear signs from the combination of ejection fraction and serum creatinine that heart failure may occur?
 
-** Develop models to predict the risk of death or other outcomes based on the health metrics provided
+** Develop models to predict the risk of death or other outcomes based on the health metrics provided.
 
-** Identify and quantify the impact of different risk factors (like smoking, diabetes, and high blood pressure) on patient outcomes
+** Identify and quantify the impact of different risk factors (like smoking, diabetes, and high blood pressure) on patient outcomes.
 
-** Summarize and visualize the distribution of health metrics and outcomes within the patient population
+** Summarize and visualize the distribution of health metrics and outcomes within the patient population.

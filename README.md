@@ -1,5 +1,5 @@
 
-# Project-Cardiac Disease
+# Project-Cardiac Failure
 
 # Team Members:
   - Laura Sunley
@@ -10,10 +10,10 @@
 
 # Project Overview
 
-Heart disease seems to be a serious and life-threatening condition that significantly impacts a large portion of the global population. Our analysis seeks to shed light on heart disease by examining factors such as age, gender, and physical data. The goal is to develop a clearer understanding of which demographics are more susceptible to heart disease and to identify effective prevention strategies. 
+Heart Failure seems to be a serious and life-threatening condition that significantly impacts a large portion of the global population. Our analysis seeks to shed light on heart failure by examining factors such as age, gender, and physical data. The goal is to develop a clearer understanding of which demographics are more susceptible to heart disease and to identify effective prevention strategies. 
 
 
-# Dataset by Heart Disease:
+# Dataset by Heart failure:
   - Dataset from Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
   - https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data/data
 
@@ -37,11 +37,11 @@ Heart disease seems to be a serious and life-threatening condition that signific
 
 # Analysis will be on:
 
-** How does age related to cardiac disease
+** How does age related to cardiac failure
 
-** How does sex related to cardiac disease
+** How does sex related to cardiac failure
 
-** How the physical data to affect cardiac disease
+** How the physical data to affect cardiac failure
 
 ** Develop models to predict the risk of death or other outcomes based on the health metrics provided
 
